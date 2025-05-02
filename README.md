@@ -7,35 +7,33 @@ WEXIM_LAYOUT is a clean, responsive, and feature-rich web layout built using HTM
 
 ✨ Key Features
 
-1] Responsive Design: Fully mobile-friendly and adapts smoothly across desktops, tablets, and phones using Bootstrap’s grid system.
+1] Hero Section: A prominent, full-width banner often featuring animated text, background images, or videos to catch attention.
 
-2] Hero Section: A prominent, full-width banner often featuring animated text, background images, or videos to catch attention.
+2] Navigation Bar:
 
-3] Navigation Bar:
-
-   3.1) Sticky or transparent navbar.
+   2.1) Sticky or transparent navbar.
    
-   3.2) Smooth scrolling to different sections of the page.
+   2.2) Smooth scrolling to different sections of the page.
    
-4] About / Services Section: Grid or column layouts showcasing services or personal/professional information.
+3] About / Services Section: Grid or column layouts showcasing services or personal/professional information.
 
-5] Portfolio / Gallery:
+4] Portfolio / Gallery:
 
-   5.1) Filterable image or project grid.
+   4.1) Filterable image or project grid.
    
-   5.2) Modal popups or lightbox integration for image previews.
+   4.2) Modal popups or lightbox integration for image previews.
    
-6] Team Section: Cards or profile blocks to introduce team members with hover effects.
+5] Team Section: Cards or profile blocks to introduce team members with hover effects.
 
-7] Testimonials: Carousel sliders using Bootstrap or third-party JS libraries to show client feedback.
+6] Testimonials: Carousel sliders using Bootstrap or third-party JS libraries to show client feedback.
 
-8] Contact Form: Styled input fields.
+7] Contact Form: Styled input fields.
 
-9] Footer:
+8] Footer:
 
-   9.1) Social media icons.
+   8.1) Social media icons.
    
-   9.2) Copyright.
+   8.2) Copyright.
 
 
 🛠️ Technical Stack
